@@ -1,0 +1,11 @@
+- [x] Configurar recursos básicos (colors, strings, themes)
+- [x] Criar `AndroidManifest.xml`
+- [x] Implementar validação e navegação na `CadastroActivity`
+- [x] Refatorar Cardápio para `RecyclerView`
+- [x] Criar tela de Restaurantes (Localização)
+- [x] Configurar Infraestrutura Gradle
+    - [x] Criar `settings.gradle`
+    - [x] Criar projeto `build.gradle`
+    - [x] Criar `gradle.properties`
+    - [x] Criar `app/build.gradle`
+- [x] Verificação final e Walkthrough

@@ -1,0 +1,10 @@
+- [x] Centralizar strings em `strings.xml`
+- [x] Corrigir warnings em `fragment_home.xml` (strings e acessibilidade)
+- [x] Corrigir warnings em `fragment_cupons.xml` (namespace não utilizado)
+- [x] Corrigir warnings em `activity_cadastro.xml` (strings e acessibilidade)
+- [x] Corrigir warnings em `item_coupon.xml` (strings)
+- [x] Corrigir warnings em `HomeFragment.java` (internacionalização)
+- [x] Corrigir warnings em `CardapioFragment.java` (internacionalização)
+- [x] Corrigir warnings em `CuponsFragment.java` (internacionalização)
+- [x] Corrigir warnings em `MainActivity.java` (reatribuição de variável)
+- [x] Verificar redução de warnings

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KFC Rena</string>
+
+    <!-- Cadastro -->
+    <string name="title_create_account">Criar Conta</string>
+    <string name="hint_full_name">Nome Completo</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_phone">Telefone</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_register_now">CADASTRAR AGORA</string>
+    <string name="tv_already_have_account">Já tem conta? Entrar</string>
+
+    <!-- Home -->
+    <string name="title_home">Início</string>
+    <string name="banner_title">Bateu a fome?</string>
+    <string name="banner_subtitle">Confira as ofertas de hoje!</string>
+    <string name="section_quick_access">Acesso Rápido</string>
+    <string name="menu_cardapio">Cardápio</string>
+    <string name="menu_cupons">Cupons</string>
+    <string name="section_highlights">Destaques da Semana</string>
+    <string name="desc_main_offer">Banner de oferta principal</string>
+
+    <!-- Cardápio -->
+    <string name="title_cardapio">Cardápio KFC</string>
+    <string name="item_balde_tradicional">Balde Tradicional</string>
+    <string name="item_kentucky_sandwich">Kentucky Chicken Sandwich</string>
+    <string name="item_batata_grande">Batata Frita Grande</string>
+    <string name="desc_balde_tradicional">O clássico do KFC: pedaços de frango suculentos e crocantes.</string>
+    <string name="desc_kentucky_sandwich">Sanduíche premium com filé de frango empanado, maionese e picles.</string>
+    <string name="desc_batata_grande">Batatas fritas crocantes por fora e macias por dentro.</string>
+
+    <!-- Cupons -->
+    <string name="title_cupons_header">Meus Cupons</string>
+    <string name="coupon_free_shipping">Frete Grátis</string>
+    <string name="coupon_free_shipping_desc">Aproveite frete grátis em pedidos acima de R$ 30 pelo App KFC!</string>
+    <string name="coupon_2_buckets">2 Baldes por R$ 50</string>
+    <string name="coupon_2_buckets_desc">Válido em lojas físicas. Aproveite o sabor clássico.</string>
+    <string name="section_more_coupons">Mais Cupons para Você</string>
+
+    <!-- Detalhes -->
+    <string name="btn_add_to_cart">ADICIONAR AO CARRINHO</string>
+    <string name="msg_added_to_cart">Adicionado ao carrinho!</string>
+</resources>

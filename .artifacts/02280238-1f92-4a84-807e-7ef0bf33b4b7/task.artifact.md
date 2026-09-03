@@ -1,0 +1,22 @@
+# Tarefas: Modernização Visual e Branding KFC
+
+- [x] Identidade Visual e Temas
+    - [x] Atualizar `colors.xml` com o vermelho oficial e neutros
+    - [x] Atualizar `themes.xml` para Material 3
+- [x] Estrutura e Navegação
+    - [x] Criar `layout_header.xml` para cabeçalhos unificados
+    - [x] Atualizar `activity_main.xml` (BottomNav M3)
+- [x] Telas de Listas (Design Moderno)
+    - [x] Refatorar `item_product.xml` e `item_coupon.xml`
+    - [x] Atualizar `fragment_cardapio.xml` com categorias (Chips)
+    - [x] Atualizar `fragment_cupons.xml` e `fragment_lojas.xml`
+- [x] Tela de Detalhes (Visual "Hero")
+    - [x] Unificar lógica em `DetailActivity.java`
+    - [x] Refatorar `activity_promo_detail.xml` para visual moderno
+- [x] Carrinho e Finalização
+    - [x] Melhorar visual de `fragment_carrinho.xml` e `item_carrinho.xml`
+- [x] Limpeza de Código e Unificação
+    - [x] Criar modelo `KfcItem.java`
+    - [x] Criar adaptador universal `KfcAdapter.java`
+    - [x] Remover classes e layouts duplicados remanescentes
+- [x] Verificação Final e Build
